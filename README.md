@@ -1,0 +1,1 @@
+Repositório para anotações de conceitos aprendidos em diversas tecnologias / linguagens.
